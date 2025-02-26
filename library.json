@@ -1,0 +1,22 @@
+{
+  "name": "CH32V003j4m6-rotary-encoder",
+  "version": "1.0.0",
+  "description": "A simple and efficient rotary encoder library for CH32V003j4m6 microcontroller",
+  "keywords": "ch32v003, rotary-encoder, encoder, ch32v003j4m6, input, sensor",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakir-abdo/CH32V003j4m6-rotary-encoder.git"
+  },
+  "authors": [
+    {
+      "name": "Shakir Abdo",
+      "email": "shicolare1@gmail.com",
+      "url": "https://github.com/shakir-abdo",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "ch32v003fun",
+  "platforms": "ch32v",
+  "headers": ["rotary_encoder.h"]
+}
